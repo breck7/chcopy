@@ -5,7 +5,7 @@ chcopy ()
 {
   sourceFile=$1
   targetFile=$2
-  string=`ls -l $sourceFile`
+  string=`ls -ld $sourceFile`
   userPermissions="${string:1:3}"
   groupPermissions="${string:4:3}"
   allPermissions="${string:7:3}"
