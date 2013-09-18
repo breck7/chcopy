@@ -1,3 +1,4 @@
+#!/bin/bash
 # paste this into your bash profile:
 # alias chcopy='~/chcopy/chcopy.sh'
 # update the path to point to this file
