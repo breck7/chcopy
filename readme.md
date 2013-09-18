@@ -1,13 +1,13 @@
 chcopy
 ======
 
-Copies the file permissions from one file to another.
+chcopy copies file permissions from one file to another.
 
 Do you lose time making file permission mistakes? I do.
 
 Often I have the file permissions set perfectly on one file or directory, but can never remember the command I used to get there.
 
-That's where chcopy comes in. It simply copies the file permissions from one file to another:
+That's where chcopy comes in. It simply copies file permissions from one file to another:
 
 ### How to use
 
