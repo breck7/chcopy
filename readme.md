@@ -26,3 +26,11 @@ echo "alias chcopy='~/chcopy/chcopy.sh'" >> ~/.bash_profile
 source ~/.bash_profile
 # now try it!
 ```
+
+### Update
+
+chmod on GNU/Linux has this built in:
+
+```
+chmod --reference=sourceFile targetFile
+```
